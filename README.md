@@ -33,6 +33,7 @@ An end-to-end **Bank Loan Portfolio & Risk Analysis** project built in **Power B
 - `Bank_Loan_Analysis.pbix` — Interactive Power BI dashboard file
 - `financial_loan.csv` — Raw lending dataset
 - `Bank_Loan_Queries.sql` — SQL validation queries
-- `Screenshots/` — <img width="1672" height="941" alt="Banking_Loan_report png" src="https://github.com/user-attachments/assets/f5cb9608-920b-4379-89b8-123e5e29d71c" />
+- `Screenshots/` — <img width="1672" height="941" alt="Banking_Loan  png" src="https://github.com/user-attachments/assets/f8504eec-c949-4f01-9e15-bf3d79bc48e3" />
+
 
   
